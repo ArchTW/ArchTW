@@ -10,10 +10,10 @@ Most of my production work lives in private repositories. I'm happy to walk thro
 
 **Stack**
 
-Go · TypeScript · Python · C / C++ · PHP / Laravel · Vue · Kotlin · Swift
-AWS · Docker · Cloudflare · Linux
-ROS 2 · EtherCAT · Modbus · MQTT · SECS
-STM32 · ESP32 · FPGA (Xilinx / Lattice) · OpenGL / Vulkan
+- **Languages:** Go · TypeScript · Python · C / C++ · PHP / Laravel · Vue · Kotlin · Swift
+- **Infra:** AWS · Docker · Cloudflare · Linux
+- **Industrial & robotics:** ROS 2 · EtherCAT · Modbus · MQTT · SECS
+- **Embedded & graphics:** STM32 · ESP32 · FPGA (Xilinx / Lattice) · OpenGL / Vulkan
 
 **Connect** · [LinkedIn](https://www.linkedin.com/in/arch-huang/)
 
