@@ -6,7 +6,7 @@ R&D Manager in Taichung, Taiwan — **AI agents × enterprise systems × robotic
 - Leading a 16+ person R&D team covering AI, AGV / AMR, IoT and cloud systems
 - Focus areas: AI agents wired into ERP / MES / CRM, on-prem AI services, multi-robot traffic control, AOI automation
 
-> **Most of my work is in private repositories** — 200+ projects in total: about 60 built with AI-assisted development since 2023, and 260+ hand-built software, circuit and mechanical projects before that. Happy to demo code and architecture live in an interview.
+> **Most of my work is in private repositories** — about 200 software projects in total (about 60 built with AI-assisted development since 2023), plus 103 circuit and 32 mechanical designs. Happy to demo code and architecture live in an interview.
 
 **Stack**
 
@@ -19,4 +19,4 @@ R&D Manager in Taichung, Taiwan — **AI agents × enterprise systems × robotic
 
 ---
 
-研發部經理，專注 AI Agent 導入、企業系統整合、機器人與 IoT，以及 Infra 與資安治理。**大多數專案為私有，可於面談時現場展示。** 專案累計超過 200 個：2023 年生成式 AI 普及後以 AI 協作新增約 60 個，AI 之前另有 260 個以上純手工的軟韌體、電路與機構專案。
+研發部經理，專注 AI Agent 導入、企業系統整合、機器人與 IoT，以及 Infra 與資安治理。**大多數專案為私有，可於面談時現場展示。** 軟韌體專案累計約 200 個，其中約 60 個是 2023 年生成式 AI 普及後以 AI 協作新增；另有電路設計 103 項、機構設計 32 項。
